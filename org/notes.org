@@ -1,0 +1,22 @@
+data structures
+
+* array
+
+** ordered array
+
+* list
+
+** linked list
+
+** doubly linked list
+
+* graphs / tree
+
+** binary tree
+
+** balanced tree
+
+* queue / stack (FIFO / LIFO)
+
+* hash table
+
